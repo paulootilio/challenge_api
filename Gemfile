@@ -22,7 +22,7 @@ gem 'puma', '~> 3.7'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-#comentarioTeste
+#comentarioTesteShow
 group :development, :test do
   gem 'rspec-rails', '~> 4.1.0'
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
